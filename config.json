@@ -1,0 +1,10 @@
+#Vorlage blanko config v_1
+'''
+
+Soundboard/
+│-- main.py
+│-- sounds/  (Ordner für MP3/WAV-Dateien)
+│-- config.json  (Speicherung von Benutzereinstellungen)
+│-- requirements.txt  (Liste der benötigten Pakete)
+
+'''
