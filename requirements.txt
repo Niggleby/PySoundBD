@@ -1,0 +1,6 @@
+# Liste der benötigten Pakete (v_1)
+
+tkinter
+pydub
+pygame
+simpleaudio
