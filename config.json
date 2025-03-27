@@ -6,5 +6,6 @@ Soundboard/
 │-- sounds/  (Ordner für MP3/WAV-Dateien)
 │-- config.json  (Speicherung von Benutzereinstellungen)
 │-- requirements.txt  (Liste der benötigten Pakete)
-
+|-- README.md  (Anleitung zur Verwendung des Soundboards)
+|-- init/?
 '''
